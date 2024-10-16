@@ -24,6 +24,7 @@
         "drupal/core-project-message": "^11.0",
         "drupal/core-recommended": "^11.0",
         "drupal/devel": "^5.3",
+        "drupal/markdown_easy": "^1.0",
         "drupal/paragraphs": "^1.18",
         "drupal/pathauto": "^1.13",
         "drupal/redirect": "^1.10",
